@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 12767,
+  "articles": [
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Mariella Moon",
+      "title": "California DMV accuses Tesla of falsely portraying its vehicles as fully autonomous",
+      "description": "Tesla uses advertising language on its website for its Autopilot and Full Self-Driving products that's untrue and misleading to customers, the California DMV said. According to The Los Angeles Times and The Wall Street Journal, the agency has filed complaints…",
+      "url": "https://www.engadget.com/california-dmv-accuses-tesla-false-advertising-130350292.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-04/4a3dd430-c6e1-11ec-82bf-2ab8a43476fc",
+      "publishedAt": "2022-08-06T13:03:50Z",
+      "content": "Tesla uses advertising language on its website for its Autopilot and Full Self-Driving products that's untrue and misleading to customers, the California DMV said. According to The Los Angeles Times … [+2727 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Report: Exec running Texas Tesla factory is under investigation for misappropriated glass",
+      "description": "Omead Afshar, a top executive at Tesla tasked with running the company’s Texas factory, is reportedly under investigation for a purchase of glass that was deemed “suspicious.”",
+      "url": "https://www.theverge.com/2022/7/23/23275638/tesla-texas-tesla-factory-executive-investigation-misappropriated-glass-omead-afshar",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/6Jd9A8SFw6n2FHjrRru9CZbdg0M=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23387479/lgrush_220407_5139_0025.jpg",
+      "publishedAt": "2022-07-23T22:25:28Z",
+      "content": "Afshar allegedly ordered a special type of glass for a secret project\r\nPhoto by Loren Grush / The Verge\r\nOmead Afshar, the Tesla executive tasked with overseeing operations at the companys Texas fact… [+1729 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Tesla is the latest company to be drawn into the Elon Musk-Twitter legal mess",
+      "description": "Twitter is subpoenaing Tesla for all documents and communications related to Elon Musk’s bid to take over the social media company.",
+      "url": "https://www.theverge.com/2022/8/3/23290436/twitter-elon-musk-tesla-subpoena-takeover-bid",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/2GkAK3PxQxGfk5tN67X2aSRtrPA=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23906799/VRG_Illo_STK022_K_Radtke_Musk_Crazy.jpg",
+      "publishedAt": "2022-08-03T16:14:30Z",
+      "content": "Twitter wants all of Teslas documents and communications related to Musks bid to takeover the social media company\r\nKristen Radtke / The Verge; Getty Images\r\nTwitter wants all of Teslas documents and… [+3093 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Richard Lawler",
+      "title": "Elon Musk changes plans, sells $6.9 billion in Tesla shares with Twitter trial looming",
+      "description": "Elon Musk said in April he wasn’t planning to sell more shares of Tesla after unloading $8.3 billion so he could buy Twitter. Now he sold $7 billion more, saying it’s to avoid an emergency sale if he’s unable to get out of buying Twitter.",
+      "url": "https://www.theverge.com/2022/8/9/23299343/elon-musk-tesla-stock-sells-twitter-trial",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/xuUjK4qhoCH1e80vIriyrrnWgrE=/0x0:2040x1068/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23906794/VRG_Illo_STK022_K_Radtke_Musk_Bolts.jpg",
+      "publishedAt": "2022-08-10T03:57:51Z",
+      "content": "In April Musk said he had no further Tesla sales planned.\r\nKristen Radtke / The Verge; Getty Images\r\n With so much of the worlds richest mans wealth tied up in shares of his electric car company, Tes… [+1973 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Forget those Tesla crashes: GM says you can trust its autonomous vehicles",
+      "description": "General Motors is convinced that it can clear the air on autonomous vehicles in time for its new technologies, including Ultra Cruise driver assist and fully autonomous robotaxis, to reach its customers.",
+      "url": "https://www.theverge.com/2022/8/4/23290893/gm-autonomous-vehicles-cruise-super-cruise-tesla",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/9nhNhEFqz5RX4vABoqxra3VbYc4=/0x286:4000x2380/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23921197/1238159620.jpg",
+      "publishedAt": "2022-08-04T12:30:00Z",
+      "content": "General Motors is racing to electrify its vast lineup of vehicles in a concerted bid to outpace Tesla as the No. 1 seller of EVs in the world. But it’s also competing with Tesla on a whole other fron… [+5774 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Jon Fingas",
+      "title": "Tesla's Shanghai Gigafactory made its 1 millionth car",
+      "description": "Plant closures and other challenges didn't keep Tesla's Chinese factory from crossing a key milestone. As Electreknotes, company chief Elon Musk has revealed that Gigafactory Shanghai recently produced its 1 millionth car. As mentioned earlier in August, Musk…",
+      "url": "https://www.engadget.com/tesla-gigafactory-shanghai-1-million-cars-131341359.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-08/2e58d840-1c96-11ed-9d7f-804cd98c2c81",
+      "publishedAt": "2022-08-15T13:13:41Z",
+      "content": "Plant closures and other challenges didn't keep Tesla's Chinese factory from crossing a key milestone. As Electreknotes, company chief Elon Musk has revealed that Gigafactory Shanghai recently produc… [+953 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Matt McFarland, CNN Business",
+      "title": "How one state could force Tesla to drop the name 'full self-driving'",
+      "description": "\"Full self-driving,\" the controversially named driver-assist feature from Tesla, may have finally met its match.",
+      "url": "https://www.cnn.com/2022/08/15/business/tesla-fsd-california-dmv/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220815125009-01-tesla-self-driving-autopilot-file-restricted-super-tease.jpg",
+      "publishedAt": "2022-08-15T18:12:57Z",
+      "content": "Washington, DC (CNN)\"Full self-driving,\" the controversially named driver-assist feature from Tesla, may have finally met its match. \r\nTesla's foil isn't a silver-haired US Senator, world-class auton… [+7240 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": null,
+      "title": "Chinese tech company reveals robot weeks before Tesla",
+      "description": "Xiaomi, the Beijing-based tech giant, debuted its humanoid robot prototype. While the lifelike robot's abilities are far from those in the film \"Ex Machina,\" it marks the company's ambition to integrate AI in its product designs.",
+      "url": "https://www.cnn.com/videos/tech/2022/08/16/cyberone-xiaomi-tesla-humanoid-robots-orig-fj.cnn-business",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220816170148-cyberone-robot-super-tease.jpg",
+      "publishedAt": "2022-08-16T21:09:09Z",
+      "content": ""
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "GM just secured enough cathode material for 5 million electric vehicles",
+      "description": "GM and LG Chem announced a deal to secure 950,000 tons of cathode active materials for electric vehicle batteries. The automaker said it was enough material for approximately 5 million EVs.",
+      "url": "https://www.theverge.com/2022/7/26/23278733/gm-lg-chem-cathode-deal-ev-battery-earnings",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/BoqUorbCtcMCfoanHdZykxwU1lc=/0x287:4000x2381/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23900996/1236631423.jpg",
+      "publishedAt": "2022-07-26T12:00:11Z",
+      "content": "The automaker struck a deal with LG Chem for 950,000 tons of cathode active materials\r\nGeneral Motors needs a lot of cathode active materials (CAM) if its to reach its goal of making enough electric … [+2672 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "bnolan@insider.com (Beatrice Nolan,Huileng Tan)",
+      "title": "Elon Musk says he has moved out of his prefab tiny home and lives in a 'very small' $45,000 property in South Texas instead",
+      "description": "SpaceX and Tesla Founder Elon Musk is known for living in tiny homes, with some even costing less than the Tesla he drives.",
+      "url": "https://www.businessinsider.com/elon-musk-tiny-home-property-boca-chica-south-texas-2022-8",
+      "urlToImage": "https://i.insider.com/62c5dae199259b00181e2a9a?width=1200&format=jpeg",
+      "publishedAt": "2022-08-05T09:58:19Z",
+      "content": "Elon Musk says his main residence is a \"very small\" 3-bedroom house, which is worth $45,000 and located in Boca Chica, South Texas.\r\nMusk said on a Friday episode of The Full Send podcast that althou… [+1312 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Jody Serrano",
+      "title": "Elon Musk Says Tweet About Buying Manchester United Was a Joke, Surprising No One",
+      "description": "Tesla CEO Elon Musk needs to find a new joke to tweet out to his millions of followers. Like, seriously, joking that he’s buying things isn’t funny anymore. Even if he were serious, we all know the world’s richest man can change his mind in the blink of an ey…",
+      "url": "https://gizmodo.com/elon-musk-tweet-buying-manchester-united-joke-1849422090",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9a24486edff6193a2b9e2298e7d3c5ed.jpg",
+      "publishedAt": "2022-08-17T11:30:00Z",
+      "content": "Tesla CEO Elon Musk needs to find a new joke to tweet out to his millions of followers. Like, seriously, joking that hes buying things isnt funny anymore. Even if he were serious, we all know the wor… [+2005 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "Elon Musk Denies Having Sex With Wife of Google Co-Founder Sergey Brin",
+      "description": "Elon Musk has denied having an affair with Nicole Shanahan, the wife of Google co-founder Sergey Brin, according to overnight tweets from the Tesla CEO. The allegations of a relationship were made in the Wall Street Journal on Sunday night and supposedly expl…",
+      "url": "https://gizmodo.com/elon-musk-sex-wife-google-tesla-spacex-wsj-sergey-brin-1849326134",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/fbb8a0801ba0a912924a44975494e7c8.jpg",
+      "publishedAt": "2022-07-25T10:00:00Z",
+      "content": "Elon Musk has denied having an affair with Nicole Shanahan, the wife of Google co-founder Sergey Brin, according to overnight tweets from the Tesla CEO. The allegations of a relationship were made in… [+2431 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Jon Fingas",
+      "title": "Twitter trial against Elon Musk begins October 17th",
+      "description": "Twitter now has an exact start date for its trial against Elon Musk over his attempt to withdraw from his $44 billion purchase offer. The Vergenotes Delaware Court of Chancery Judge Kathaleen McCormick has scheduled the lawsuit's trial for October 17th. The c…",
+      "url": "https://www.engadget.com/twitter-elon-musk-trial-start-date-153754397.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/7d852600-09fc-11ed-af67-069b8c6d16cf",
+      "publishedAt": "2022-07-29T15:37:54Z",
+      "content": "Twitter now has an exact start date for its trial against Elon Musk over his attempt to withdraw from his $44 billion purchase offer. The Vergenotes Delaware Court of Chancery Judge Kathaleen McCormi… [+918 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Editorial",
+      "title": "Crypto Weekly: Tesla sells its stash - Reuters.com",
+      "description": "From Elon Musk changing a big bitcoin stash into regular cash, to a crypto adventure in the Central African Republic, we round up the big stories in virtual money. Kristy Kilburn reports.",
+      "url": "https://www.reuters.com/video/watch/idOV455026072022RP1",
+      "urlToImage": "https://static.reuters.com/resources/r/?d=20220726&i=OV455026072022RP1&r=OV455026072022RP1&t=2",
+      "publishedAt": "2022-07-26T19:54:58Z",
+      "content": "Posted \r\nFrom Elon Musk changing a big bitcoin stash into regular cash, to a crypto adventure in the Central African Republic, we round up the big stories in virtual money. Kristy Kilburn reports."
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Ashley Belanger",
+      "title": "Twitter subpoenas emails, texts from Tesla bigwigs and Musk’s BFFs",
+      "description": "Because Musk purchased Twitter as an individual, his friends are \"fair game.\"",
+      "url": "https://arstechnica.com/tech-policy/2022/08/twitter-subpoenas-emails-texts-from-tesla-bigwigs-and-musks-bffs/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1240439365-760x380.jpg",
+      "publishedAt": "2022-08-04T21:15:31Z",
+      "content": "4 with 4 posters participating\r\nAre spam accounts really the reason behind Tesla CEO Elon Musk's decision to back out of his cursed Twitter deal?\r\nThis week, Twitter sent a bunch of subpoenas to find… [+3579 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "U.S. seeks information from Tesla on cabin camera in Autopilot probe - Reuters",
+      "description": "U.S. auto safety regulators on Thursday asked Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> to answer questions about its cabin camera as part of a probe into 830,000 Tesla vehicles that employ the carmaker's advanc…",
+      "url": "https://www.reuters.com/business/autos-transportation/us-seeks-information-tesla-cabin-camera-autopilot-probe-2022-08-18/",
+      "urlToImage": "https://www.reuters.com/resizer/xWys90SIr5SQwoySJxLhWscD-PU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V6EW6CH6JVKT5PF3D5SOVIYL5M.jpg",
+      "publishedAt": "2022-08-18T18:49:00Z",
+      "content": "WASHINGTON, Aug 18 (Reuters) - U.S. auto safety regulators on Thursday asked Tesla Inc (TSLA.O) to answer questions about its cabin camera as part of a probe into 830,000 Tesla vehicles that employ t… [+839 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Laura He",
+      "title": "Carmakers hit as China's heatwave forces more power rationing",
+      "description": "China's brutal heatwave is now hurting major players in the auto industry.",
+      "url": "https://www.cnn.com/2022/08/22/business/china-heat-wave-power-cuts-tesla-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220822023903-01-sichuan-power-crunch-shanghai-tesla.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-08-22T10:12:03Z",
+      "content": "Chinas brutal heatwave is now hurting major players in the auto industry.\r\nThe rationing of power in Sichuan province Chinas most important hydropower hub has hit production for major carmakers in Sh… [+3592 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "ztayeb@businessinsider.com (Zahra Tayeb)",
+      "title": "An army of Tesla fans in South Korea holds a collective stake of more than $15 billion in Elon Musk's company, putting them among its top shareholders, report says",
+      "description": "One family in South Korea ploughed their entire $230,000 life savings into Tesla stock, Bloomberg reported.",
+      "url": "https://markets.businessinsider.com/news/stocks/elon-musk-south-korean-fans-hold-15-billion-stake-tesla-2022-8",
+      "urlToImage": "https://i.insider.com/62ed019de00f40001826c078?width=1200&format=jpeg",
+      "publishedAt": "2022-08-24T11:03:00Z",
+      "content": "Retail investors in South Korea hold a combined stake of more than $15 billion in Elon Musk's Tesla, according to Bloomberg. \r\nMany have gone all-in on the electric carmaker, with one family ploughin… [+1379 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Entrepreneur"
+      },
+      "author": "Emily Rella",
+      "title": "Tesla Just Hit Another Million-Mark Milestone",
+      "description": "The company has produced 1 million cars in its Shanghai, China factory.",
+      "url": "https://www.entrepreneur.com/article/433435",
+      "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1660582819-GettyImages-1201459585.jpg",
+      "publishedAt": "2022-08-15T17:00:00Z",
+      "content": "Tesla has reached another million-mark milestone.\r\nBloomberg | Getty Images\r\nOver the weekend, Tesla's gigafactory located in Shanghai, Chinaproduced its millionth car, bringing the grand total of al… [+1420 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "U.S. investigating Utah Tesla crash that killed motorcyclist - Reuters.com",
+      "description": "The National Highway Traffic Safety Administration (NHTSA) said on Tuesday it has opened a special investigation into the crash of a 2020 Tesla Model 3 vehicle that killed a motorcyclist in Utah.",
+      "url": "https://www.reuters.com/world/us/us-investigating-utah-tesla-crash-that-killed-motorcyclist-2022-07-26/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=105",
+      "publishedAt": "2022-07-26T20:17:00Z",
+      "content": "WASHINGTON, July 26 (Reuters) - The National Highway Traffic Safety Administration (NHTSA) said on Tuesday it has opened a special investigation into the crash of a 2020 Tesla Model 3 vehicle that ki… [+521 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Editorial",
+      "title": "Elon Musk sells another $6.9 bln of Tesla shares - Reuters",
+      "description": "Tesla CEO Elon Musk sold $6.9 billion worth of shares in the electric vehicle maker, saying the funds could be used to finance a potential Twitter deal if he loses a legal battle with the social media platform. Laila Shahrokhshahi reports.",
+      "url": "https://www.reuters.com/video/watch/idOV763910082022RP1",
+      "urlToImage": "https://static.reuters.com/resources/r/?d=20220810&i=OV763910082022RP1&r=OV763910082022RP1&t=2",
+      "publishedAt": "2022-08-10T08:29:41Z",
+      "content": "Posted \r\nTesla CEO Elon Musk sold $6.9 billion worth of shares in the electric vehicle maker, saying the funds could be used to finance a potential Twitter deal if he loses a legal battle with the so… [+48 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Tesla wins order to arbitrate trade-secret case against former engineer - Reuters",
+      "description": "A San Francisco federal judge has sent a dispute between Tesla Inc and its former engineer Alexander Yatskov to private arbitration, rejecting Yatskov's plea to keep the case in court so he could publicly contest Tesla's \"humiliating\" claims.",
+      "url": "https://www.reuters.com/legal/transactional/tesla-wins-order-arbitrate-trade-secret-case-against-former-engineer-2022-08-19/",
+      "urlToImage": "https://www.reuters.com/resizer/XvetfQDcN3QBfwJI0XqgjlQ5Ml4=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VLGALETFRBNDNJ76BF6OQJLK7M.jpg",
+      "publishedAt": "2022-08-19T17:22:00Z",
+      "content": "(Reuters) - A San Francisco federal judge has sent a dispute between Tesla Inc and its former engineer Alexander Yatskov to private arbitration, rejecting Yatskov's plea to keep the case in court so … [+2360 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Dan Milmo and agencies",
+      "title": "Elon Musk sells Tesla shares worth $6.9bn as Twitter trial looms",
+      "description": "Tesla CEO admits he could need the funds if he loses a legal battle with Twitter and is forced to buy the social media platformElon Musk has sold $6.9bn (£5.7bn) worth of shares in Tesla after admitting that he could need the funds if he loses a legal battle …",
+      "url": "https://amp.theguardian.com/technology/2022/aug/10/elon-musk-sells-tesla-shares-worth-69bn-as-twitter-trial-looms",
+      "urlToImage": "https://i.guim.co.uk/img/media/f3aa28b67f7a449e7237cd45fc0e6ee283cba5cc/0_188_5284_3169/master/5284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ab5055fd4dfd35f401f51b2bba96e6f",
+      "publishedAt": "2022-08-10T05:51:49Z",
+      "content": "Elon Musk has sold $6.9bn (£5.7bn) worth of shares in Tesla after admitting that he could need the funds if he loses a legal battle with Twitter and is forced to buy the social media platform.\r\nThe T… [+2597 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Two key lawmakers want briefing on U.S. safety probes into Tesla - Reuters",
+      "description": "Two U.S. lawmakers who chair subcommittees overseeing auto safety asked the federal auto safety regulator for a briefing on its probes into crashes involving Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a>electric veh…",
+      "url": "https://www.reuters.com/business/autos-transportation/two-key-lawmakers-want-briefing-us-safety-probes-into-tesla-2022-08-11/",
+      "urlToImage": "https://www.reuters.com/resizer/xWys90SIr5SQwoySJxLhWscD-PU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V6EW6CH6JVKT5PF3D5SOVIYL5M.jpg",
+      "publishedAt": "2022-08-11T16:36:00Z",
+      "content": "WASHINGTON, Aug 11 (Reuters) - Two U.S. lawmakers who chair subcommittees overseeing auto safety asked the federal auto safety regulator for a briefing on its probes into crashes involving Tesla Inc … [+1712 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Entrepreneur"
+      },
+      "author": "Emily Rella",
+      "title": "Tesla Subpoenaed By the SEC (Again) Over Elon Musk's Tweets",
+      "description": "The billionaire infamously Tweeted that he had \"funding secured\" to take Tesla private back in 2018.",
+      "url": "https://www.entrepreneur.com/article/432099",
+      "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1658776139-GettyImages-1238367308.jpg",
+      "publishedAt": "2022-07-25T19:10:00Z",
+      "content": "Looks like the latest Twitter court drama isn't the only legal proceedings Elon Musk will be facing.\r\nJIM WATSON | Getty Images\r\nTesladisclosed on Monday that it would be entering a court-ordered set… [+1842 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Tesla hires Hewlett Packard Enterprise lawyer for senior legal post - Reuters",
+      "description": "Tesla Inc has hired former Hewlett Packard Enterprise Co lawyer Derek Windham to helm its in-house corporate and securities legal team, according to his LinkedIn account, as the electric carmaker continues to shuffle its law department.",
+      "url": "https://www.reuters.com/legal/legalindustry/tesla-hires-hewlett-packard-enterprise-lawyer-senior-legal-post-2022-08-08/",
+      "urlToImage": "https://www.reuters.com/resizer/J-DFZ4lSil0Tlxrl_7d1pV6HtOc=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AGTQ44ENMFNMNJWG5OLBJXCXUI.jpg",
+      "publishedAt": "2022-08-08T17:09:00Z",
+      "content": "(Reuters) - Tesla Inc has hired former Hewlett Packard Enterprise Co lawyer Derek Windham to helm its in-house corporate and securities legal team, according to his LinkedIn account, as the electric … [+2433 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Indonesia says Tesla strikes $5 bln deal to buy nickel products - media - Reuters",
+      "description": "U.S. carmaker Tesla <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> has signed contracts worth about $5 billion to buy materials for their batteries from nickel processing companies in Indonesia, a senior cabinet minister told …",
+      "url": "https://www.reuters.com/business/autos-transportation/indonesia-says-tesla-strikes-5-bln-deal-buy-nickel-products-media-2022-08-08/",
+      "urlToImage": "https://www.reuters.com/resizer/iquuTBFWZg4I80pZdkDStk5ITQo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5NH4RFNQBFKCTCTVKMLLR45N24.jpg",
+      "publishedAt": "2022-08-08T06:22:00Z",
+      "content": "JAKARTA, Aug 8 (Reuters) - U.S. carmaker Tesla (TSLA.O) has signed contracts worth about $5 billion to buy materials for their batteries from nickel processing companies in Indonesia, a senior cabine… [+1582 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Dan Milmo and Kari Paul",
+      "title": "Musk accuses Twitter of deliberately miscounting spam users in countersuit",
+      "description": "Tesla chief says social media company miscounted accounts as part of a ‘scheme’ to mislead investorsElon Musk has accused Twitter of deliberately miscounting the number of spam accounts on its platform as part of a “scheme” to mislead investors.The Tesla chie…",
+      "url": "https://amp.theguardian.com/technology/2022/aug/05/elon-musk-twitter-countersuit-investors",
+      "urlToImage": "https://i.guim.co.uk/img/media/c77fea65647edababdfae229ba43afe02c201b13/0_39_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1d0f5b25fe61a54bbd071cbf41b0509",
+      "publishedAt": "2022-08-05T16:56:08Z",
+      "content": "Elon Musk has accused Twitter of deliberately miscounting the number of spam accounts on its platform as part of a scheme to mislead investors.\r\nThe Tesla chief executive made the allegations in a co… [+3159 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "sjones@insider.com (Stephen Jones)",
+      "title": "Safety regulators are investigating a crash involving a Tesla Model 3 on Autopilot that killed a motorcyclist in Utah, reports say",
+      "description": "The special investigation comes weeks after the NHTSA expanded a probe into the autopilot system 830,000 Tesla vehicles.",
+      "url": "https://www.businessinsider.com/tesla-regulators-investigate-autopilot-crash-that-killed-utah-motorcyclist-2022-7",
+      "urlToImage": "https://i.insider.com/62c2bde59b16eb00180247b4?width=1200&format=jpeg",
+      "publishedAt": "2022-07-27T12:32:23Z",
+      "content": "US road safety regulators are investigating a fatal crash involving a Tesla Model 3 over claims that the driver was using the autopilot system. \r\nOn Tuesday, the National Highway Traffic Safety Admin… [+1656 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "kgallagher@insider.com (Kayla Gallagher)",
+      "title": "Elon Musk is attending Republican leader Kevin McCarthy's Wyoming retreat on the day of Liz Cheney's primary, report says",
+      "description": "Tesla CEO Elon Musk is among the VIP attendees at House GOP Leader Kevin McCarthy's Wyoming retreat Tuesday.",
+      "url": "https://www.businessinsider.com/elon-musk-speak-at-leader-mccarthys-wyoming-retreat-2022-8",
+      "urlToImage": "https://i.insider.com/62fbfbf8c87abe0018c2c892?width=1200&format=jpeg",
+      "publishedAt": "2022-08-16T21:05:51Z",
+      "content": "Tesla CEO Elon Musk is among House GOP Leader Kevin McCarthy's VIP guests at his Wyoming retreat on Tuesday, a person familiar with McCarthy's plans told Bloomberg and New York Times reporter Maggie … [+1358 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Slashdot.org"
+      },
+      "author": "BeauHD",
+      "title": "Tesla's Virtual Power Plant Had Its First Event Helping the Grid",
+      "description": "Klaxton shares a report from Electrek: Last year, Tesla launched a VPP pilot program in California, where Powerwall owners would join in voluntarily without compensation to let the VPP pull power from their battery packs when the grid needed it. Following the…",
+      "url": "https://hardware.slashdot.org/story/22/08/18/2159213/teslas-virtual-power-plant-had-its-first-event-helping-the-grid",
+      "urlToImage": "https://a.fsdn.com/sd/topics/power_64.png",
+      "publishedAt": "2022-08-19T10:00:00Z",
+      "content": "Last year, Tesla launched a VPP pilot program in California, where Powerwall owners would join in voluntarily without compensation to let the VPP pull power from their battery packs when the grid nee… [+1080 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Guardian"
+      },
+      "author": "Dan Milmo Global technology editor",
+      "title": "Elon Musk’s Twitter lawsuit: what you need to know",
+      "description": "Tesla CEO has sold $7bn worth of shares in the carmaker in case he loses his bid to walk away from the $44bn takeover Elon Musk did not become the world’s wealthiest person through a lack of confidence.But the Tesla CEO revealed on Tuesday that he had sold $6…",
+      "url": "https://amp.theguardian.com/technology/2022/aug/10/elon-musk-prepares-war-chest-for-44bn-twitter-sale-verdict",
+      "urlToImage": "https://i.guim.co.uk/img/media/218a398ca2f1523cdbc09deaabb7ada5e8a0481f/0_67_2013_1208/master/2013.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ba7c2d3a6e698f0a16c52ee11df1af5",
+      "publishedAt": "2022-08-10T17:59:05Z",
+      "content": "Elon Musk did not become the worlds wealthiest person through a lack of confidence.\r\nBut the Tesla CEO revealed on Tuesday that he had sold $6.9bn (£5.7bn) worth of shares in the carmaker, in case he… [+6267 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Entrepreneur"
+      },
+      "author": "Gabrielle Bienasz",
+      "title": "Elon Musk Announced Tesla's 'Full Self-Driving' Technology Will Cost $3,000 More",
+      "description": "The \"full self-driving\" feature can be installed in a Tesla and can help drivers change lanes and steer.",
+      "url": "https://www.entrepreneur.com/article/433877",
+      "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1661183177-GettyImages-493893226.jpg",
+      "publishedAt": "2022-08-22T16:33:00Z",
+      "content": "It doesn't literally drive itself but it's going to cost more.\r\nElon Musk announced in a Tweet Sunday that Tesla's \"full self-driving\" technology or FSD, is going to cost more than originally expecte… [+2894 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "Nicolás Rivera",
+      "title": "Tesla revela detalles muy esperados del Semi",
+      "description": "Tesla ha actualizado la página web del Tesla Semi, el esperado camión eléctrico que promete revolucionar la industria del transporte mediante carretera. Una actualización en la que se revelan nuevos detalles sobre un vehículo que, según dijo el propio Elon Mu…",
+      "url": "https://hipertextual.com/2022/08/tesla-semi-carga-autonomia-diseno-aceleracion",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2017/11/Tesla-Semi-truck.jpg",
+      "publishedAt": "2022-08-19T07:51:23Z",
+      "content": "Tesla ha actualizado la página web del Tesla Semi, el esperado camión eléctrico que promete revolucionar la industria del transporte mediante carretera. Una actualización en la que se revelan nuevos … [+3104 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Daniel Gessner)",
+      "title": "Tesla-powered flying car doesn't require a license",
+      "description": "The Jetson One is a 63-mph flying vehicle designed for a single passenger. However, it requires no license to operate.",
+      "url": "https://www.businessinsider.com/tesla-battery-flying-car-doesnt-require-license-2022-7",
+      "urlToImage": "https://i.insider.com/62db14df21142200185edd6d?width=1200&format=jpeg",
+      "publishedAt": "2022-08-01T20:00:00Z",
+      "content": "Narrator: This flying vehicle could be the future of air travel. Known as the Jetson One, the vehicle's eight electric motors give it a top speed of 63 miles per hour, and its Tesla battery cells all… [+3026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Entrepreneur"
+      },
+      "author": "Jea Yu",
+      "title": "Is Fisker Ready to Re-Emerge as the Tesla Killer?",
+      "description": "U.S. electric vehicle (EV) manufacturer Fisker Inc. (NYSE: FSR) stock has had its ups and downs in the past two-years. Shares hit $31.96 highs in March of 2021.",
+      "url": "https://www.entrepreneur.com/article/434007",
+      "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-434007.jpeg",
+      "publishedAt": "2022-08-24T05:00:00Z",
+      "content": "U.S. electric vehicle (EV) manufacturer Fisker Inc. (NYSE: FSR) stock has had its ups and downs in the past two-years. Shares peaked at $31.96 highs in March of 2021 and fell as low as $7.95 in June … [+5710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Entrepreneur"
+      },
+      "author": "Sam Quirke",
+      "title": "Can You Guess Which EV Stock Is Beating Tesla ?",
+      "description": "There’s a strong case to be made for considering a long position in electric vehicle (EV) maker NIO’s (NYSE: NIO) shares.",
+      "url": "https://www.entrepreneur.com/article/433318",
+      "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-433318.jpeg",
+      "publishedAt": "2022-08-12T11:00:00Z",
+      "content": "With an almost 80% rally since the middle of May, there's a strong case to be made for considering a long position in electric vehicle (EV) maker NIO's (NYSE: NIO) shares. While they were well able t… [+3764 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Tesla sets Aug 25 as trading day for three-for-one split shares - Reuters",
+      "description": "Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> said on Friday trading in its three-for-one split shares will start on Aug. 25, after the electric vehicle maker's shareholders approved the proposal during its annual m…",
+      "url": "https://www.reuters.com/technology/tesla-sets-aug-25-trading-day-three-for-one-split-shares-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/EhpqTEbT2t4Gya1QX5kOL-SpQxU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UTBXAAUAXVIKRCC2OJKMU32VXQ.jpg",
+      "publishedAt": "2022-08-05T21:12:00Z",
+      "content": "Aug 5 (Reuters) - Tesla Inc (TSLA.O) said on Friday trading in its three-for-one split shares will start on Aug. 25, after the electric vehicle maker's shareholders approved the proposal during its a… [+1803 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "German court lets Tesla ads continue referring to autonomous driving - Reuters",
+      "description": "Tesla <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> can continue referring to the capabilities of its driver assistance system and to autonomous driving in its advertising in Germany after a court threw out a complaint agains…",
+      "url": "https://www.reuters.com/legal/german-court-lets-tesla-ads-continue-referring-autonomous-driving-2022-08-16/",
+      "urlToImage": "https://www.reuters.com/resizer/eu8O-dETSBRO8SJ8p3zAKoJ-J6s=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/74TEOSE545MWDM2WJ2T5JAQK3E.jpg",
+      "publishedAt": "2022-08-16T14:46:00Z",
+      "content": "FRANKFURT, Aug 16 (Reuters) - Tesla (TSLA.O) can continue referring to the capabilities of its driver assistance system and to autonomous driving in its advertising in Germany after a court threw out… [+1223 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "California regulator claims Tesla falsely advertised Autopilot, Full Self-Driving - Reuters",
+      "description": "Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a>, the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising its Autopilot and Full Sel…",
+      "url": "https://www.reuters.com/business/autos-transportation/california-regulator-claims-tesla-falsely-advertised-autopilot-full-self-driving-2022-08-05/",
+      "urlToImage": "https://www.reuters.com/resizer/2H0uwyh8sxAi0vkJ2SCWJuxLjws=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/DYIGVF2YTNIH5NT63MV5TPIB6E.jpg",
+      "publishedAt": "2022-08-05T23:14:00Z",
+      "content": "WASHINGTON/NEW YORK Aug 5 (Reuters) - Tesla Inc (TSLA.O), the electric car company run by billionaire Elon Musk, has been accused by a California state transportation regulator of falsely advertising… [+2653 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Indonesia president wants Tesla to make EVs in country - Bloomberg News - Reuters",
+      "description": "Electric vehicle maker Tesla <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> must make its cars - not just batteries - in Indonesia, the country's president told Bloomberg News on Thursday.",
+      "url": "https://www.reuters.com/technology/indonesia-president-wants-tesla-make-evs-country-bloomberg-news-2022-08-19/",
+      "urlToImage": "https://www.reuters.com/resizer/cmQHt03qXYOE7FcaDRDv2hQBbDQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D2QQOK7W4RKILOCWCYJT6BRCAU.jpg",
+      "publishedAt": "2022-08-19T01:04:00Z",
+      "content": "Aug 19 (Reuters) - Electric vehicle maker Tesla (TSLA.O) must make its cars - not just batteries - in Indonesia, the country's president told Bloomberg News on Thursday.\r\nPresident Joko Widodo said I… [+726 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "NGOs ask Musk to not invest in Indonesia's nickel industry over environmental worries - Reuters.com",
+      "description": "Dozens of non-governmental organizations (NGOs) have sent an open letter to Elon Musk, urging the Tesla Inc's <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> chief to not invest in Indonesia's nickel industry on environmental c…",
+      "url": "https://www.reuters.com/business/environment/ngos-ask-musk-not-invest-indonesias-nickel-industry-over-environmental-worries-2022-07-25/",
+      "urlToImage": "https://www.reuters.com/resizer/4ooiDb3AFB1FjwAWApNsyjQ6uxs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KFHUHBZ2EBJV3LVDJBYRUG3SFE.jpg",
+      "publishedAt": "2022-07-25T18:12:00Z",
+      "content": "July 25 (Reuters) - Dozens of non-governmental organizations (NGOs) have sent an open letter to Elon Musk, urging the Tesla Inc's (TSLA.O) chief to not invest in Indonesia's nickel industry on enviro… [+1754 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Breakingviews - CATL can pull off its risky reshuffle - Reuters",
+      "description": "If Elon Musk were to lose a key lieutenant who also happened to be a Tesla <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> director and the company’s second-largest shareholder, investors might well panic.",
+      "url": "https://www.reuters.com/breakingviews/catl-can-pull-off-its-risky-reshuffle-2022-08-02/",
+      "urlToImage": "https://www.reuters.com/resizer/h8HZKNuqeV0S0pUPGuBErRL42HQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EAP4NN6BPRLKNITPGYOLTH2JZY.jpg",
+      "publishedAt": "2022-08-02T05:13:00Z",
+      "content": "HONG KONG, Aug 2 (Reuters Breakingviews) - If Elon Musk were to lose a key lieutenant who also happened to be a Tesla (TSLA.O) director and the companys second-largest shareholder, investors might we… [+3362 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Redwood Materials plans to spend $3.5 bln on battery-materials factory in Nevada - WSJ - Reuters.com",
+      "description": "Redwood Materials, founded by former Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> executive J.B. Straubel, plans to spend $3.5 billion on a battery-materials factory in northwest Nevada, the Wall Street Journal rep…",
+      "url": "https://www.reuters.com/business/autos-transportation/redwood-materials-plans-spend-35-bln-battery-materials-factory-nevada-wsj-2022-07-25/",
+      "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=105",
+      "publishedAt": "2022-07-25T13:03:00Z",
+      "content": "July 25 (Reuters) - Redwood Materials, founded by former Tesla Inc (TSLA.O) executive J.B. Straubel, plans to spend $3.5 billion on a battery-materials factory in northwest Nevada, the Wall Street Jo… [+1140 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Musk says he backs moderate Republicans and Democrats - Reuters",
+      "description": "Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> Chief Executive Elon Musk said on Tuesday that he backs moderate Republicans as well as moderate Democrats, just three months after announcing that he would vote for Rep…",
+      "url": "https://www.reuters.com/world/us/musk-says-he-backs-moderate-republicans-democrats-2022-08-17/",
+      "urlToImage": "https://www.reuters.com/resizer/3uuBc_fP3jrSKolLNZlCJlqICCE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QKP5KC36WNPERE73AW3UOV7YSU.jpg",
+      "publishedAt": "2022-08-17T00:55:00Z",
+      "content": "Aug 16 (Reuters) - Tesla Inc (TSLA.O) Chief Executive Elon Musk said on Tuesday that he backs moderate Republicans as well as moderate Democrats, just three months after announcing that he would vote… [+1690 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Tesla shortens delivery waiting time for Model Y in China to 4-8 weeks -website - Reuters",
+      "description": "Tesla <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> has shortened the delivery waiting time for the Model Y in China to four to eight weeks, it said on its Chinese website.",
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-shortens-delivery-waiting-time-model-y-china-4-8-weeks-website-2022-08-18/",
+      "urlToImage": "https://www.reuters.com/resizer/7tVJ96KnSwAOFEZVvN5ooPin3F8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5SYW2QIYYRNVBLIRKIL5PHYBZI.jpg",
+      "publishedAt": "2022-08-18T02:27:00Z",
+      "content": "SHANGHAI, Aug 18 (Reuters) - Tesla (TSLA.O) has shortened the delivery waiting time for the Model Y in China to four to eight weeks, it said on its Chinese website.\r\nThe U.S. automaker previously sai… [+463 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "bnguyen@insider.com (Britney Nguyen)",
+      "title": "A solar-powered Tesla pool just opened at a charging station in Germany so drivers can relax while their cars recharge",
+      "description": "The pool was Tesla's idea, according to the owner of the electric vehicle charging station in Hilden, Germany.",
+      "url": "https://www.businessinsider.com/tesla-pool-solar-powered-supercharger-station-germany-2022-8",
+      "urlToImage": "https://i.insider.com/62ed3416e00f40001826cc6a?width=1200&format=jpeg",
+      "publishedAt": "2022-08-05T16:35:05Z",
+      "content": "Tesla owners in Germany now have a place to cool off instead of sitting in their car while it charges.\r\nOn August 1, a Tesla pool opened at the Ladepark Kreuz Hilden electric vehicle charging station… [+1858 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "rhogg@insider.com (Ryan Hogg)",
+      "title": "Video appears to show a Tesla's Autopilot system confusing horse-drawn carriage for truck",
+      "description": "A video from YouTuber RealRusty appears to show his Tesla's Autopilot system identifying the carriage as a truck, a car, and a human.",
+      "url": "https://www.businessinsider.com/video-tesla-autopilot-appears-to-confuse-horse-drawn-carriage-truck-2022-8",
+      "urlToImage": "https://i.insider.com/6300e161c2794d00197ee072?width=1200&format=jpeg",
+      "publishedAt": "2022-08-20T13:55:28Z",
+      "content": "A video posted by a Tesla driver appears to show his car's Autopilot system confusing a horse-drawn carriage for a truck.\r\nThe video, posted by Swiss YouTuber RealRusty, shows his Tesla approaching a… [+1195 chars]"
+    },
+    {
+      "source": {
+        "id": "ars-technica",
+        "name": "Ars Technica"
+      },
+      "author": "Eric Bangeman",
+      "title": "Elon Musk cashes in $6.9 billion of Tesla stock, just in case",
+      "description": "Musk has now sold $15.4 billion worth of TSLA shares since agreeing to buy Twitter.",
+      "url": "https://arstechnica.com/tech-policy/2022/08/elon-musk-cashes-in-6-9-billion-of-tesla-stock-just-in-case/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/musk-twitter-760x380.jpg",
+      "publishedAt": "2022-08-10T15:42:28Z",
+      "content": "Enlarge/ Photo illustration by Chesnot/Getty Images\r\n23 with 19 posters participating\r\nWithin weeks of the Twitter board's approval of Elon Musk's unsolicited bid to take the company private, the Sou… [+2128 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hackaday"
+      },
+      "author": "Dan Maloney",
+      "title": "Junkbox Build Keeps Tesla Coils Perfectly Varnished",
+      "description": "Admittedly, not a lot of people have a regular need to varnish coils. It’s mainly something that Tesla coil builders and other high-voltage experimenters are concerned with. But since that …read more",
+      "url": "https://hackaday.com/2022/08/09/junkbox-build-keeps-tesla-coils-perfectly-varnished/",
+      "urlToImage": "https://hackaday.com/wp-content/uploads/2022/08/1280x720-vtime4_33-take2022-08-08-14.42.03.png",
+      "publishedAt": "2022-08-09T08:00:15Z",
+      "content": "Admittedly, not a lot of people have a regular need to varnish coils. It’s mainly something that Tesla coil builders and other high-voltage experimenters are concerned with. But since that group prob… [+1279 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "bevans@insider.com (Brian Evans)",
+      "title": "Tesla still has $222 million in digital assets on its balance sheet after dumping most of its bitcoin",
+      "description": "In an SEC filing Monday, Tesla also disclosed a $170 million impairment charge on its crypto investments for the six-month period that ended June 30.",
+      "url": "https://markets.businessinsider.com/news/currencies/tesla-crypto-holdings-222-billion-bitcoin-sale-elon-musk-sec-2022-7",
+      "urlToImage": "https://i.insider.com/62ab2d108eacc300192df60b?width=1200&format=jpeg",
+      "publishedAt": "2022-07-25T14:10:01Z",
+      "content": "Tesla still has $222 million on its balance sheet days after disclosing the sale of 75% of its bitcoin holdings, according to a new filing with the Securities and Exchange Commission. \r\nThe electric … [+1002 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Isobel Asher Hamilton)",
+      "title": "Tesla is jacking up the price of its Full Self-Driving feature from $12,000 to $15,000 in the second hike of 2022",
+      "description": "Tesla CEO Elon Musk has said the price of FSD, which was $10,000 in January, will rise as its self-driving tech gets more sophisticated.",
+      "url": "https://www.businessinsider.com/elon-musk-tesla-raising-full-self-driving-price-to-15000-2022-8",
+      "urlToImage": "https://i.insider.com/6303420bc2794d00197eefe5?width=1200&format=jpeg",
+      "publishedAt": "2022-08-22T09:19:23Z",
+      "content": "Tesla CEO Elon Musk tweeted Sunday the company is raising the price of its Full Self-Driving feature to $15,000 in North America, marking the second hike of the year.\r\nIt means the price of FSD, Tesl… [+1766 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "gkay@insider.com (Grace Kay)",
+      "title": "YouTube removes video of Tesla fans using kids to test whether the carmaker's Full Self-Driving software stops for children",
+      "description": "After a video of a Tesla crashing into a child-sized dummy went viral, several drivers have tested how FSD reacts to kids.",
+      "url": "https://www.businessinsider.com/tesla-fans-full-self-driving-test-on-kids-removed-youtube-2022-8",
+      "urlToImage": "https://i.insider.com/630383dcc9a2da001809031b?width=1200&format=jpeg",
+      "publishedAt": "2022-08-22T15:40:56Z",
+      "content": "YouTube removed a video that showed Tesla fans testing out with real children whether the carmaker's Full Self-Driving (FSD) software would stop for kids.\r\nThe video was posted by Whole Mars Blog's o… [+3447 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Carla Mozée)",
+      "title": "Stocks are in the midst of a 'classic' bear-market rally and the lows haven't been seen yet, says Bank of America",
+      "description": "Just four four stocks - Apple, Microsoft, Amazon, and Tesla - contributed 30% of the S&P 500's gain during its latest bear-market rally, BofA says.",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-outlook-bear-rally-lows-sp500-fed-economy-dow-2022-8",
+      "urlToImage": "https://i.insider.com/62a7068aa464ed0019583442?width=1200&format=jpeg",
+      "publishedAt": "2022-08-19T16:55:15Z",
+      "content": "The summer surge in the S&amp;P 500 should be considered an average bear-market rally and the index remains vulnerable to falling under its recent lows, according to Bank of America. \r\nThe investment… [+3524 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "prosen@insider.com (Phil Rosen)",
+      "title": "Manchester United stock rallies even as Elon Musk says his tweet about buying the soccer club was a joke",
+      "description": "After the Tesla chief's tweet, trading volume for shares of the sports club skyrocketed to more than double their daily average.",
+      "url": "https://markets.businessinsider.com/news/stocks/elon-musk-tweet-manchester-united-stock-rally-joke-tesla-markets-2022-8",
+      "urlToImage": "https://i.insider.com/62fcf4bbf1df7e0018eadcc4?width=1200&format=jpeg",
+      "publishedAt": "2022-08-17T14:43:24Z",
+      "content": "Shares of Manchester United jumped as much as 3% Wednesday following Elon Musk's tweet about buying the English sports club.\r\nThe Tesla chief quickly clarified that he was only joking about the purch… [+568 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "gkay@insider.com (Grace Kay)",
+      "title": "Uber is sending befuddled passengers step-by-step instructions for opening the doors on a Tesla",
+      "description": "Tesla doors are unlike any others on the market and have been known to cause confusion or at times frustration for drivers and passengers.",
+      "url": "https://www.businessinsider.com/uber-sends-directions-for-opening-confusing-tesla-doors-2022-8",
+      "urlToImage": "https://i.insider.com/62ea876e076fd300189cdb6d?width=1200&format=jpeg",
+      "publishedAt": "2022-08-03T16:18:52Z",
+      "content": "Uber has begun sending riders directions for how to ride in a Tesla, after the electric cars gained popularity on the ride-sharing platform earlier this year. \r\nThe app is sending passengers who requ… [+1842 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Carla Mozée)",
+      "title": "Retail investors' bullishness for Tesla is the highest in 2 years ahead of vote on EV maker's stock split",
+      "description": "Tesla stock purchases by retail investors 'are skyrocketing' before the company's vote Thursday on a proposed 3-for-1 stock split, said Vanda.",
+      "url": "https://markets.businessinsider.com/news/stocks/tesla-stock-split-vote-price-musk-retail-investors-bullish-tsla-2022-8",
+      "urlToImage": "https://i.insider.com/5cc07b3adaa9a91f0e03396c?width=1200&format=jpeg",
+      "publishedAt": "2022-08-03T17:40:17Z",
+      "content": "Individual investors have been piling into Tesla shares as they prepare for a potential split of the electric vehicle maker's stock, and their purchases have contributed to a recent upswing in the br… [+2217 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "rhogg@insider.com (Ryan Hogg)",
+      "title": "Tesla gets its own lane at the Mexican border after Elon Musk strikes a deal with local officials, report says",
+      "description": "The pro-business state of Nuevo Leon is allowing Tesla and its suppliers to use a dedicated lane when leaving Mexico, Bloomberg reported.",
+      "url": "https://www.businessinsider.com/tesla-gets-own-lane-mexican-border-elon-musk-strikes-deal-2022-7",
+      "urlToImage": "https://i.insider.com/62dbf7115bf4820019b5e69e?width=1200&format=jpeg",
+      "publishedAt": "2022-07-23T13:48:56Z",
+      "content": "Tesla has been given its own lane at the US-Mexico border to speed up deliveries from its suppliers in Mexico, Bloomberg reported.\r\nThe pro-business state of Nuevo Leon struck a deal with Tesla and i… [+1501 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "tmohamed@businessinsider.com (Theron Mohamed)",
+      "title": "Google cofounder Sergey Brin might pocket over $100 million by selling his Tesla stock, after plowing $500,000 into Elon Musk's automaker before it went public",
+      "description": "Brin has moved to dump his stakes in Elon Musk's companies after the Tesla CEO reportedly had a brief affair with his wife. Musk has denied the claim.",
+      "url": "https://markets.businessinsider.com/news/stocks/sergey-brin-google-elon-musk-tesla-stock-electric-vehicles-stake-2022-7",
+      "urlToImage": "https://i.insider.com/62de7054aa194b0019482b14?width=1200&format=jpeg",
+      "publishedAt": "2022-07-25T11:13:05Z",
+      "content": "Sergey Brin, an early Tesla investor, may be poised to pocket over $100 million by cashing out his stake in Elon Musk's automaker.\r\nThe Google cofounder and former Alphabet president has instructed h… [+2154 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "sjones@insider.com (Stephen Jones)",
+      "title": "Elon Musk said Tesla could build 10 or 12 new Gigafactories to reach his goal of making 20 million cars a year by 2030",
+      "description": "Tesla might be able to announce the location of a new factory later this year, Musk told stockholders at Teslas 2022 Cyber Roundup.",
+      "url": "https://www.businessinsider.com/elon-musk-tesla-could-build-dozen-new-gigafactories-2022-8",
+      "urlToImage": "https://i.insider.com/62eceee9a1c9b90019804df6?width=1200&format=jpeg",
+      "publishedAt": "2022-08-05T12:12:59Z",
+      "content": "Elon Musk hinted at plans to expand Tesla's network of Gigafactories as the company aims to meet his ambition to build as many as 20 million electric cars a year.\r\nAddressing stockholders at the firm… [+1844 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "ktangalakislippert@insider.com (Katherine Tangalakis-Lippert)",
+      "title": "California regulators aim to revoke Tesla's ability to sell cars in the state over the company's marketing of its 'Full Self-Driving' technology",
+      "description": "The California DMV has accused Tesla of engaging in deceptive marketing practices around its driver assistance tech, which the company calls \"Full Self-Driving Capability.\"",
+      "url": "https://www.businessinsider.com/california-regulators-revoke-tesla-dealer-license-over-deceptive-practices-2022-8",
+      "urlToImage": "https://i.insider.com/62edfb818677d80018ee3c0f?width=1200&format=jpeg",
+      "publishedAt": "2022-08-06T06:24:41Z",
+      "content": "Regulators with the California Department of Motor Vehicles are targeting Tesla's license to sell cars in the state after accusing the company of deceptive business practices over its marketing of wh… [+2866 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "sjones@insider.com (Stephen Jones)",
+      "title": "Elon Musk says Tesla would continue to do very well even if he was kidnapped by aliens or 'went back to my home planet'",
+      "description": "\"I intend to stay with Tesla as long as I can be useful,\" Musk said in response to a question on how the board would handle his succession.",
+      "url": "https://www.businessinsider.com/elon-musk-tesla-successful-kidnapped-by-aliens-home-planet-2022-8",
+      "urlToImage": "https://i.insider.com/62ed019de00f40001826c078?width=1200&format=jpeg",
+      "publishedAt": "2022-08-05T12:39:06Z",
+      "content": "Elon Musk has no plans of leaving Tesla but thinks that the company would continue to perform well without him.\r\n\"We have a very talented team here. So I think Tesla, you know, would continue to do v… [+2162 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "jerb@insider.com (Jordan Parker Erb)",
+      "title": "Google just put Apple on blast over its messaging: 'It's time for Apple to fix texting.'",
+      "description": "Google calls on Apple to \"fix texting,\" Elon Musk sells $6.9 billion of Tesla shares, and we outline the companies Amazon could acquire next.",
+      "url": "https://www.businessinsider.com/google-apple-debate-messaging-time-for-apple-to-fix-texting-2022-8",
+      "urlToImage": "https://i.insider.com/62f2e653cc15bf00182faf85?width=1200&format=jpeg",
+      "publishedAt": "2022-08-10T10:05:00Z",
+      "content": "iPhone owners have long blamed Android owners for difficulties when cross-device messaging. But yesterday, Google took the debate to the next level, placing the blame squarely on Apple.\r\nIf this was … [+4543 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "sjones@insider.com (Stephen Jones)",
+      "title": "Ford's plan to take on Tesla involves letting customers order EVs online 'in their bunny slippers'",
+      "description": "Unlike Tesla, which owns an in-house network of sales and servicing centers, Ford sells its cars through a network of franchisees.",
+      "url": "https://www.businessinsider.com/ford-online-electric-vehicles-tesla-sales-2022-8",
+      "urlToImage": "https://i.insider.com/62e7bd5cc1c56b0018b49433?width=1200&format=jpeg",
+      "publishedAt": "2022-08-01T12:30:59Z",
+      "content": "Ford CEO Jim Farley hopes that e-commerce will help the auto giant gain ground on its rivals in the race to dominate the US electric vehicle (EV) market. \r\nIn an investor call discussing the firm's s… [+2046 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Jordan Hart)",
+      "title": "Musk and Brin: A brief history of the billionaires' friendship leading up to rift caused by an alleged affair",
+      "description": "Tesla CEO Elon Musk and Google cofounder Sergey Brin maintained a relationship as friends and business associates before an alleged Musk's affair.",
+      "url": "https://www.businessinsider.com/elon-musk-sergey-brin-friends-years-alleged-affair-2022-7",
+      "urlToImage": "https://i.insider.com/62dd7e765bf4820019b5f0bd?width=1200&format=jpeg",
+      "publishedAt": "2022-07-24T19:22:40Z",
+      "content": "The years-long relationship between Elon Musk and fellow billionaire Google cofounder, Sergey Brin, has been ruptured by an alleged affair between Musk and Brin's wife in 2021, the Wall Street Journa… [+1579 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "kbalevic@insider.com (Katie Balevic)",
+      "title": "Google co-founder Sergey Brin told his financial advisers to sell his investments in Elon Musk's companies after Musk had an affair with his wife",
+      "description": "Brin, a board member of Google's parent company Alphabet Inc., previously invested $500,000 in Tesla in 2008, the Wall Street Journal reported.",
+      "url": "https://www.businessinsider.com/sergey-brin-told-advisors-sell-all-musk-investments-after-affair-2022-7",
+      "urlToImage": "https://i.insider.com/62dd8fb85bf4820019b5f0f1?width=1200&format=jpeg",
+      "publishedAt": "2022-07-24T18:41:00Z",
+      "content": "Google co-founder Sergey Brin reportedly told his financial advisers to sell off all of his investments in Elon Musk's companies after learning that Musk reportedly had an affair with Brin's wife, Ni… [+873 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "tlevin@insider.com (Tim Levin)",
+      "title": "Elon Musk predicts the US will have a 'mild recession' for 18 months",
+      "description": "Tesla CEO Elon Musk, the world's richest man, thinks the US is headed toward a mild recession and that peak inflation is behind us.",
+      "url": "https://www.businessinsider.com/elon-musk-recession-prediction-18-months-economy-inflation-2022-8",
+      "urlToImage": "https://i.insider.com/62ec57e44b9bf300188392d9?width=1200&format=jpeg",
+      "publishedAt": "2022-08-04T23:42:54Z",
+      "content": "Elon Musk thinks the US is headed into a recession. \r\nThe world's richest man laid out his assessment of the US economy at Tesla's annual shareholder meeting on Thursday. \r\n\"Making macroeconomic prog… [+1467 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Katie Canales)",
+      "title": "Elon Musk denies report that he's planning to build his own private airport outside Austin, Texas",
+      "description": "Elon Musk tweeted Thursday that it \"would be silly to build another private airport\" since Tesla HQ is already minutes from Austin's main airport.",
+      "url": "https://www.businessinsider.com/elon-musk-denies-building-private-airport-texas-2022-8",
+      "urlToImage": "https://i.insider.com/62ec006e05c1fd0018470dd3?width=1200&format=jpeg",
+      "publishedAt": "2022-08-04T18:32:37Z",
+      "content": "Elon Musk said Thursday that he's not building a private airport outside of Austin, Texas.\r\nLocal Austin news site Austonia reported last week that the Tesla and SpaceX executive was planning on buil… [+2201 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "htan@insider.com (Huileng Tan)",
+      "title": "Elon Musk said Tesla has produced more than 3 million cars to date, and it highlights just how much smaller the company is than the auto giants it's up against",
+      "description": "In contrast, Toyota delivered over 10 million cars in 2021 alone. But \"production is a much bigger challenge than demand\" for Tesla, said Musk.",
+      "url": "https://www.businessinsider.com/elon-musk-tesla-produced-more-than-3-million-cars-shanghai-2022-8",
+      "urlToImage": "https://i.insider.com/62f9a7d8306b6300192ac75a?width=1200&format=jpeg",
+      "publishedAt": "2022-08-15T04:30:50Z",
+      "content": "Tesla has produced over three million cars so far, with one-third of them coming from the company's Gigafactory in Shanghai, CEO Elon Musk tweeted on Sunday.\r\nMusk was congratulating Tesla Shanghai o… [+1267 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "jhart@insider.com (Jordan Hart)",
+      "title": "Tesla driver found the perfect place to keep his car key – implanted in his hand",
+      "description": "A Tesla driver can now unlock his car without using his smartphone. Thanks to a chip implanted in his hand, he will never lose his keys again.",
+      "url": "https://www.businessinsider.com/tesla-owner-implants-chip-hand-unlock-vehicle-2022-8",
+      "urlToImage": "https://i.insider.com/63012c34c9a2da001808f0f4?width=1200&format=jpeg",
+      "publishedAt": "2022-08-20T19:24:13Z",
+      "content": "A tiny chip inserted into the right hand of Tesla owner Brandon Dalaly is now all he needs to unlock his vehicle.\r\nDalaly shared a video on Twitter and YouTube of having the VivoKey Apex chip implant… [+1423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Entrepreneur"
+      },
+      "author": "Jea Yu",
+      "title": "Elon Musk is Out, But Should You Be In Twitter Stock?",
+      "description": "Social media platform Twitter (NYSE: TWTR) stock tanked when Tesla (NASDAQ: TSLA) CEO Elon Musk pulled his $54.20 per share and $44 billion takeover offer.",
+      "url": "https://www.entrepreneur.com/article/432451",
+      "urlToImage": "https://assets.entrepreneur.com/providers/marketbeat/hero-image-marketbeat-432451.jpeg",
+      "publishedAt": "2022-08-01T05:13:00Z",
+      "content": "Social media platformTwitter (NYSE: TWTR) stock has had a tumultuous year as Tesla (NASDAQ: TSLA) CEO Elon Musk pulled his $54.20 per share and $44 billion takeover offer. There is much speculation t… [+4800 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "gkay@insider.com (Grace Kay)",
+      "title": "A Tesla fan tested out the Full Self-Driving software's child detection using a real kid after a video went viral of it running over a toddler-sized mannequin",
+      "description": "\"It was a little nerve-wracking in the beginning, but I knew that it was going to detect and stop,\" the child's parent said.",
+      "url": "https://www.businessinsider.com/tesla-fan-test-full-self-driving-software-real-child-2022-8",
+      "urlToImage": "https://i.insider.com/62fa4ac5306b6300192acd63?width=1200&format=jpeg",
+      "publishedAt": "2022-08-15T17:42:25Z",
+      "content": "A Tesla fan tested out the carmaker's Full Self-Driving (FSD) software using a real child after a video went viral of the electric car crashing into a toddler-sized mannequin.\r\nThe marketing campaign… [+3285 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "gkay@insider.com (Grace Kay)",
+      "title": "A Chinese company accused of ripping off Apple designs unveiled a new humanoid robot that looks a lot like Tesla's",
+      "description": "Last week, the Chinese tech company unveiled its first look at CyberOne during a live event in Beijing.",
+      "url": "https://www.businessinsider.com/xiaomi-unveils-new-bot-that-looks-like-teslabot-2022-8",
+      "urlToImage": "https://i.insider.com/62fe4b71f1df7e0018eb1615?width=1200&format=jpeg",
+      "publishedAt": "2022-08-18T18:28:44Z",
+      "content": "Xiaomi beat Tesla to building a functional humanoid robot, but the design for its CyberOne robot looks eerily similar to the electric-car maker's Optimus.\r\nLast week, the Chinese tech company unveile… [+2432 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Tesla to urge dismissal of California agency's race bias lawsuit - Reuters",
+      "description": "Tesla Inc's <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> lawyers on Wednesday will urge a California judge to throw out a lawsuit by the state's civil rights agency accusing the electric car maker of widespread race discrimi…",
+      "url": "https://www.reuters.com/business/sustainable-business/tesla-urge-dismissal-california-agencys-race-bias-lawsuit-2022-08-24/",
+      "urlToImage": "https://www.reuters.com/resizer/cfSJWANizKNupKHseyeTsPwz-cI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UCSF6LXJKVM6BJBTWDPOARBVLE.jpg",
+      "publishedAt": "2022-08-24T10:09:00Z",
+      "content": "Aug 24 (Reuters) - Tesla Inc's (TSLA.O) lawyers on Wednesday will urge a California judge to throw out a lawsuit by the state's civil rights agency accusing the electric car maker of widespread race … [+2735 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Tesla discloses lobbying effort to set up factory in Canada - Reuters",
+      "description": "Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> is lobbying the Ontario government as part of an effort to set up an \"advanced manufacturing facility\" in Canada, a filing by the electric-vehicle maker to the province'…",
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-discloses-lobbying-effort-set-up-factory-canada-2022-08-09/",
+      "urlToImage": "https://www.reuters.com/resizer/IM46ItpNXjQA13-5Hjm7mKqz5rQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7OYTIK7JNBNL3HOZXFATLZZ5A4.jpg",
+      "publishedAt": "2022-08-09T16:03:00Z",
+      "content": "Aug 9 (Reuters) - Tesla Inc (TSLA.O) is lobbying the Ontario government as part of an effort to set up an \"advanced manufacturing facility\" in Canada, a filing by the electric-vehicle maker to the pr… [+1821 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Elon Musk subpoenas Jack Dorsey ahead of Twitter court battle",
+      "description": "The billionaire has subpoenaed Twitter's co-founder in hope it will help him end his deal to buy the site.",
+      "url": "https://www.bbc.co.uk/news/business-62641029",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DD80/production/_125840765_gettyimages-1211442356.jpg",
+      "publishedAt": "2022-08-22T22:45:11Z",
+      "content": "Elon Musk has subpoenaed Twitter co-founder Jack Dorsey as part of his legal battle with the tech company. \r\nMr Musk is seeking to end his $44bn deal for Twitter after alleging the firm failed to pro… [+2186 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "htan@insider.com (Huileng Tan)",
+      "title": "Elon Musk sells Tesla shares worth $7 billion to raise cash in case he's forced to buy Twitter",
+      "description": "Musk and Twitter are caught in a legal tussle over his $44 billion acquisition of the social media platform.",
+      "url": "https://markets.businessinsider.com/news/stocks/elon-musk-sells-8-million-tesla-shares-7-billion-twitter-2022-8",
+      "urlToImage": "https://i.insider.com/62615a20db73840018a55d44?width=1200&format=jpeg",
+      "publishedAt": "2022-08-10T06:14:37Z",
+      "content": "Elon Musk sold 7.92 million Tesla shares worth $6.9 million, according to six regulatory filings with the US Securities and Exchange Commission made public on Tuesday. They took place from August 5 t… [+2057 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Umar Shakir",
+      "title": "These pole-mounted EV chargers let down their joules",
+      "description": "Pole-mounted electric vehicle chargers might be a great and cost-effective way to build EV infrastructure. Melrose, MA, demonstrates how the chargers can make EVs easier to charge in cities.",
+      "url": "https://www.theverge.com/2022/8/12/23301826/pole-mounted-chargers-ev-electric-vehicles-melrose-boston",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/Xf9umX_Lq0I7duu-E_O7xwRkYf8=/0x258:1800x1200/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23939084/FZlMtObWYAEWC76.jpeg",
+      "publishedAt": "2022-08-12T14:29:44Z",
+      "content": "A Nissan Leaf being fed from a pole-mounted EV charger in Melrose, MA | Image: Only In Boston\r\n\n \n\n Electric utility poles do a lot for us: they power our homes, take nails for our yard sale and lost… [+5544 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Entrepreneur"
+      },
+      "author": "Emily Rella",
+      "title": "Tesla's New Gigafactory Could Be in Canada, According to a New Filing",
+      "description": "New documents indicate that the EV company may be eyeing Ontario for its next stomping grounds.",
+      "url": "https://www.entrepreneur.com/article/433260",
+      "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1660242367-GettyImages-1240500609.jpg",
+      "publishedAt": "2022-08-11T18:24:00Z",
+      "content": "Tesla CEO Elon Musk is no stranger to setting up shop on international grounds, as two of Tesla's five gigafactories are based in Berlin, Germany, and Shanghai, China.\r\nSOPA Images | Getty Images\r\nBu… [+2435 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Richard Lawler",
+      "title": "Elon Musk wins access to files from Twitter’s former head of product",
+      "description": "A Delaware judge ruled that Elon Musk’s lawyers will receive documents from Twitter’s former head of product, Kayvon Beykpour, ahead of a trial over his attempt to exit their $44 billion acquisition agreement.",
+      "url": "https://www.theverge.com/2022/8/16/23309024/elon-musk-twitter-lawsuit-bot-spam-kayvon-beykpour",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/yavT1NCqPr0WBpLsslnBnoAa2Ss=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23906798/VRG_Illo_STK022_K_Radtke_Musk_Verified.jpg",
+      "publishedAt": "2022-08-17T00:29:23Z",
+      "content": "Twitter will have to share documents from ex product head Kayvon Beykpour\r\nKristen Radtke / The Verge; Getty Images\r\nElon Musks lawyers notched a partial win this week in their Delaware Court of Chan… [+2280 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "EXCLUSIVE China's EVE to supply BMW with large Tesla-like cylindrical batteries in Europe -sources - Reuters",
+      "description": "China's EVE Energy Co Ltd <a href=\"https://www.reuters.com/companies/300014.SZ\" target=\"_blank\">(300014.SZ)</a> will supply BMW <a href=\"https://www.reuters.com/companies/BMWG.DE\" target=\"_blank\">(BMWG.DE)</a> with large cylindrical batteries for its electric…",
+      "url": "https://www.reuters.com/business/autos-transportation/exclusive-chinas-eve-supply-bmw-with-large-tesla-like-cylindrical-batteries-2022-08-17/",
+      "urlToImage": "https://www.reuters.com/resizer/y9xPORTw-COTHuaKF8JrRQLQAfM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z275QR7KWVLHZDV5BIKA5KL55A.jpg",
+      "publishedAt": "2022-08-17T07:08:00Z",
+      "content": "SHANGHAI, Aug 17 (Reuters) - China's EVE Energy Co Ltd (300014.SZ) will supply BMW (BMWG.DE) with large cylindrical batteries for its electric cars in Europe, two people with knowledge of the matter … [+3515 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Tesla loses challenge to California agency suing for race bias - Reuters",
+      "description": "A California administrative agency has declined to review Tesla Inc's <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> claim that the state's civil rights watchdog suing the company for race bias at an assembly plant is rushing …",
+      "url": "https://www.reuters.com/legal/transactional/tesla-loses-challenge-california-agency-suing-race-bias-2022-08-22/",
+      "urlToImage": "https://www.reuters.com/resizer/3PvXMZY0ByEZp_hAYra6uLgzgU0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FOEQWS2VQFPPFFHSNTERAVMGEQ.jpg",
+      "publishedAt": "2022-08-22T14:48:00Z",
+      "content": "Aug 22 (Reuters) - A California administrative agency has declined to review Tesla Inc's (TSLA.O) claim that the state's civil rights watchdog suing the company for race bias at an assembly plant is … [+2319 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Andrew J. Hawkins",
+      "title": "Lucid Motors will barely make any EVs this year as it slashes production goals again",
+      "description": "Lucid Motors will only make 7,000 electric vehicles at most this year after the company revised its production guidance for the second time in 2022.",
+      "url": "https://www.theverge.com/2022/8/3/23291120/lucid-motors-q2-2022-earnings-ev-air-production-slashed",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/0E8Z76vjNQOs_Fz3V0WoWJFPB28=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22677727/ahawkins_210623_4646_0005.jpg",
+      "publishedAt": "2022-08-03T21:16:32Z",
+      "content": "The company now expects to make 7,000 vehicles at most this year\r\nPhoto by Andrew Hawkins / The Verge\r\nLuxury electric vehicle maker Lucid Motors is slashing its production forecast for 2022 for the … [+2197 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "gkay@insider.com (Grace Kay)",
+      "title": "Tesla drivers are taking to the streets to test whether Full Self-Driving technology stops for children after viral video shows the EV plowing through a toddler-sized mannequin",
+      "description": "The independent tests are not subject to US testing standards and Elon Musk called one of the negative videos a \"scam.\"",
+      "url": "https://www.businessinsider.com/tesla-drivers-test-fsd-stops-for-children-viral-video-2022-8",
+      "urlToImage": "https://i.insider.com/62f514f18a103800181053d9?width=1200&format=jpeg",
+      "publishedAt": "2022-08-11T16:50:37Z",
+      "content": "Tesla drivers are staging their own tests to determine if the carmaker's Full Self-Driving (FSD) software stops for children.\r\nOn Tuesday, a video from Tesla critic Taylor Ogan went viral after it sh… [+3856 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Factbox: 'You'll be glad you bought a flamethrower': The tweets of Elon Musk - Reuters",
+      "description": "Billionaire Elon Musk, the chief executive of electric automaker Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> and rocket company SpaceX, on Tuesday tweeted that he was buying soccer club Manchester United <a href=\"…",
+      "url": "https://www.reuters.com/business/youll-be-glad-you-bought-flamethrower-tweets-elon-musk-2022-08-17/",
+      "urlToImage": "https://www.reuters.com/resizer/VgUxz279rdqPKBEsLWweM12MscY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BWS6HFOJOJNPPHWROEHKY2TMHM.jpg",
+      "publishedAt": "2022-08-17T03:37:00Z",
+      "content": "Aug 16 (Reuters) - Billionaire Elon Musk, the chief executive of electric automaker Tesla Inc (TSLA.O) and rocket company SpaceX, on Tuesday tweeted that he was buying soccer club Manchester United (… [+2691 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "gkay@insider.com (Grace Kay)",
+      "title": "'Take that Elon Musk:' Ford CEO takes a dig at Tesla's delayed Cybertruck compared to the success of the electric F-150 Lightning",
+      "description": "Jim Farley called the F-150 Lightning a \"shining light\" for the company and dubbed Ford \"the leader of all EV pickup trucks\" in the US.",
+      "url": "https://www.businessinsider.com/ford-ceo-delayed-tesla-cybertruck-elon-musk-electric-pickup-truck-2022-8",
+      "urlToImage": "https://i.insider.com/62f3ee775b790400198adac2?width=1200&format=jpeg",
+      "publishedAt": "2022-08-10T19:24:01Z",
+      "content": "Ford CEO Jim Farley took the opportunity to brag about the company's electric pickup truck, as well as take a playful dig at Tesla during a press conference on Wednesday.\r\nFarley called Ford's new el… [+2436 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Boing Boing"
+      },
+      "author": "Andrew Yi",
+      "title": "Tesla ends lifetime connectivity subscription",
+      "description": "New Tesla vehicles ordered after July 20, 2022 will no longer come with a lifetime Standard Connectivity subscription.\n\n\n\nAll Tesla vehicles come with access to Standard Connectivity. Standard Connectivity is included in your vehicle, at no additional cost, f…",
+      "url": "https://boingboing.net/2022/07/26/tesla-ends-lifetime-connectivity-subscription.html",
+      "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2022/07/50490972616_da4905b5cb_o-scaled.jpg?fit=1200%2C900&ssl=1",
+      "publishedAt": "2022-07-26T12:06:57Z",
+      "content": "New Tesla vehicles ordered after July 20, 2022 will no longer come with a lifetime Standard Connectivity subscription.\r\nAll Tesla vehicles come with access to Standard Connectivity. Standard Connecti… [+1333 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Rhett Jones",
+      "title": "Silicon Valley's Push Into Transportation Has Been a Miserable Failure",
+      "description": "Gizmodo is 20 years old! To celebrate the anniversary, we’re looking back at some of the most significant ways our lives have been thrown for a loop by our digital tools.\r\nRead more...",
+      "url": "https://gizmodo.com/silicon-valleys-transportation-failures-tesla-waymo-bir-1849382788",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e595ad4fcedc787c19dc64b49739519c.jpg",
+      "publishedAt": "2022-08-08T18:10:00Z",
+      "content": "Gizmodo is 20 years old! To celebrate the anniversary, were looking back at some of the most significant ways our lives have been thrown for a loop by our digital tools.\r\nWhen I first started driving… [+39517 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Entrepreneur"
+      },
+      "author": "Emily Rella",
+      "title": "'It's Important to Avoid an Emergency': Musk Offloads $6.99 Billion in Tesla Stock",
+      "description": "New financial documents show that the billionaire sold an estimated 7.92 million shares of his electric car company.",
+      "url": "https://www.entrepreneur.com/article/433186",
+      "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1660151032-GettyImages-1229901655.jpg",
+      "publishedAt": "2022-08-10T16:59:00Z",
+      "content": "Elon Musk's legal battle withTwitter, following his decision to back out of his $44 billion bid to purchase the company, doesn't hit the courts until October, but his latest move could provide more a… [+1983 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "jaerogers@gmail.com (Jules Rogers)",
+      "title": "I bought a Tesla on a whim. I love it — but I still take a gas car on road trips so I don't have to charge.",
+      "description": "Liz Eselius-Naporano bought a Tesla Model Y last year because she loved the idea of never going to a gas station. But she says the car isn't perfect.",
+      "url": "https://www.businessinsider.com/buying-a-tesla-car-on-a-whim-saving-on-gas-2022-7",
+      "urlToImage": "https://i.insider.com/62dab2e36fb3cf0018e073cc?width=1200&format=jpeg",
+      "publishedAt": "2022-08-01T14:23:45Z",
+      "content": "This as-told-to essay is based on a conversation with Liz Eselius-Naporano, who bought a Tesla Model Y in 2021. This conversation has been edited for length and clarity.\r\nA little over a year ago, I … [+3388 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "Alberto Martín",
+      "title": "El siguiente objetivo de Tesla es ser una empresa de electricidad",
+      "description": "O al menos así lo apuntan los planes de Tesla para el medio plazo. Una nueva oferta de trabajo anticipa los planes de la compañía para crear una nueva unidad de negocio como minorista de electricidad. La oferta, publicada en su división en Texas, busca a una …",
+      "url": "https://hipertextual.com/2022/08/tesla-empresa-electrica",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2022/04/paul-steuber-huV0Jexsi3o-unsplash-scaled.jpg",
+      "publishedAt": "2022-08-19T07:00:03Z",
+      "content": "O al menos así lo apuntan los planes de Tesla para el medio plazo. Una nueva oferta de trabajo anticipa los planes de la compañía para crear una nueva unidad de negocio como minorista de electricidad… [+2098 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Analysis by Allison Morrow",
+      "title": "Analysis: The messy world of Elon Musk",
+      "description": "Just when we think Elon Musk might keep his head down to focus on running his many companies, fighting a high-stakes legal battle with Twitter, or spending time with any of his 10 children, a fresh scandal breaks to feed the drama tornado that is the world's …",
+      "url": "https://www.cnn.com/2022/07/25/business/nightcap-elon-musk-affair-economy-recession/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220725160028-02-elon-musk-0903-file-super-tease.jpg",
+      "publishedAt": "2022-07-26T00:03:39Z",
+      "content": "This story is part of CNN Business' Nightcap newsletter. To get it in your inbox, sign up for free, here.\r\nNew York (CNN Business)Just when we think Elon Musk might keep his head down to focus on run… [+7087 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Panasonic posts 39% drop in Q1 operating profit, misses estimate - Reuters",
+      "description": "Japan's Panasonic Holdings Corp <a href=\"https://www.reuters.com/companies/6752.T\" target=\"_blank\">(6752.T)</a>, whose energy unit supplies batteries to Tesla <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a>, reported a 39% drop…",
+      "url": "https://www.reuters.com/technology/panasonic-posts-39-drop-q1-operating-profit-misses-estimate-2022-07-28/",
+      "urlToImage": "https://www.reuters.com/resizer/p9IBm8RnySXLvpWK6wKKrowUNBY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/J67V6A5M6RMSJAKNJAMLWKJU4U.jpg",
+      "publishedAt": "2022-07-28T06:37:00Z",
+      "content": "TOKYO, July 28 (Reuters) - Japan's Panasonic Holdings Corp (6752.T), whose energy unit supplies batteries to Tesla (TSLA.O), reported a 39% drop in first-quarter profit on Thursday as demand for its … [+1799 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Analysis: Musk's 'joke' ManU tweet unlikely to land him regulator's red card -legal experts - Reuters",
+      "description": "While the U.S. securities regulator is likely to examine Elon Musk's tweet in which he joked about buying New York-listed soccer club Manchester United <a href=\"https://www.reuters.com/companies/MANU.N\" target=\"_blank\">(MANU.N)</a>, legal experts say that on …",
+      "url": "https://www.reuters.com/business/musks-joke-manu-tweet-unlikely-land-him-regulators-red-card-legal-experts-2022-08-17/",
+      "urlToImage": "https://www.reuters.com/resizer/TqBmC6ez1DM-Mrj4ut42Ae53ge8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/NGIBHNYKUVKMFELWBTEC6PXX6U.jpg",
+      "publishedAt": "2022-08-17T22:15:00Z",
+      "content": "WASHINGTON, Aug 17 (Reuters) - While the U.S. securities regulator is likely to examine Elon Musk's tweet in which he joked about buying New York-listed soccer club Manchester United (MANU.N), legal … [+3829 chars]"
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "Mat Smith",
+      "title": "The Morning After: Instagram backpedals on its full-screen feed",
+      "description": "Last month, Instagram started testing a full-screen display for photos and videos. And we didn’t like it. Now, Instagram boss Adam Mosseri says the test will be wound down over the next couple of weeks. “For the new feed designs, people are frustrated, and th…",
+      "url": "https://www.engadget.com/the-morning-after-instagram-backpedals-on-its-full-screen-feed-111549182.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-06/064bfcd0-f917-11ec-a9e6-edaf333d6443",
+      "publishedAt": "2022-07-29T11:15:49Z",
+      "content": "Last month, Instagram started testing a full-screen display for photos and videos. And we didnt like it. Now, Instagram boss Adam Mosseri says the test will be wound down over the next couple of week… [+3268 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Bethany Biron)",
+      "title": "Elon Musk reportedly had an affair with the wife of Google co-founder and longtime friend Sergey Brin, prompting his divorce earlier this year",
+      "description": "The affair allegedly prompted Brin's divorce from Nicole Shanahan in January of this year, the Wall Street Journal reported.",
+      "url": "https://www.businessinsider.com/elon-musk-affair-google-co-founder-sergey-brin-wife-2022-7",
+      "urlToImage": "https://i.insider.com/62dd6cf25bf4820019b5efe8?width=1200&format=jpeg",
+      "publishedAt": "2022-07-24T16:08:57Z",
+      "content": "Elon Musk was reportedly involved in a romantic affair last fall with the wife of Google co-founder Sergey Brin, a long-time friend of Musk and a Tesla investor, the Wall Street Journal reported. \r\nT… [+1636 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "mfox@businessinsider.com (Matthew Fox)",
+      "title": "Twitter climbs as investors eye increased likelihood Elon Musk closes his deal to buy the social media company after selling $7 billion in Tesla stock",
+      "description": "\"Twitter's board is holding Musk's feet to the fire to finish the deal at the agreed upon price,\" Wedbush analyst Dan Ives said.",
+      "url": "https://markets.businessinsider.com/news/stocks/twitter-stock-price-elon-musk-deal-sells-7-billion-tesla-2022-8",
+      "urlToImage": "https://i.insider.com/62f3f2385b790400198adb93?width=1200&format=jpeg",
+      "publishedAt": "2022-08-10T18:55:41Z",
+      "content": "Twitter stock jumped as much as 4% Wednesday after Elon Musk disclosed in a filing with the SEC that he sold $7 billion worth of Tesla stock over the past few days.\r\nWall Street is viewing Musk's Tes… [+1892 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "mfox@businessinsider.com (Matthew Fox)",
+      "title": "Elon Musk's sale of another $7 billion in Tesla stock makes his Twitter takeover more likely, Wedbush says",
+      "description": "\"The Street and legal experts across the board view Twitter as having a 'strong iron fist upper hand' heading into the Delaware court battle.\"",
+      "url": "https://markets.businessinsider.com/news/stocks/elon-musk-tesla-stock-sale-7-billion-twitter-deal-likely-2022-8",
+      "urlToImage": "https://i.insider.com/62f3a581cc15bf00182fb6cd?width=1200&format=jpeg",
+      "publishedAt": "2022-08-10T13:08:26Z",
+      "content": "It's looking more likely that Elon Musk will be forced to close on his deal to buy Twitter after the world's richest person sold $7 billion worth of Tesla stock, according to a Wednesday note from We… [+2007 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Musk seeks documents from Jack Dorsey in fight over Twitter deal - Reuters",
+      "description": "Billionaire entrepreneur Elon Musk is seeking documents from Twitter Inc<a href=\"https://www.reuters.com/companies/TWTR.N\" target=\"_blank\">(TWTR.N)</a> co-founder Jack Dorsey as the CEO of Tesla and SpaceX pursues his legal fight to walk away from his $44 bil…",
+      "url": "https://www.reuters.com/legal/musk-seeks-documents-jack-dorsey-fight-over-twitter-deal-2022-08-22/",
+      "urlToImage": "https://www.reuters.com/resizer/Y7ygkn0h6jY_tHiAGijYx4JSA28=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GTNZYH5I25METMEO352TK55TLA.jpg",
+      "publishedAt": "2022-08-22T19:55:00Z",
+      "content": "WILMINGTON, Del., Aug 22 (Reuters) - Billionaire entrepreneur Elon Musk is seeking documents from Twitter Inc(TWTR.N) co-founder Jack Dorsey as the CEO of Tesla and SpaceX pursues his legal fight to … [+2528 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Twitter to hold shareholder vote on Musk's offer in September - Reuters",
+      "description": "Twitter Inc <a href=\"https://www.reuters.com/companies/TWTR.N\" target=\"_blank\">(TWTR.N)</a> said on Tuesday it would hold a shareholder meeting on Sept. 13 to vote on the social media company's proposed $44 billion takeover offer by Tesla <a href=\"https://www…",
+      "url": "https://www.reuters.com/technology/twitter-hold-shareholder-vote-musks-offer-september-2022-07-26/",
+      "urlToImage": "https://www.reuters.com/resizer/Owe5xAfdQ_SZpE99C5bCsVVuGUw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5IGOXPY2CBNYLMFUQAEGMA426Q.jpg",
+      "publishedAt": "2022-07-26T22:15:00Z",
+      "content": "July 26 (Reuters) - Twitter Inc (TWTR.N) said on Tuesday it would hold a shareholder meeting on Sept. 13 to vote on the social media company's proposed $44 billion takeover offer by Tesla (TSLA.O) ch… [+1205 chars]"
+    }
+  ]
+}
